@@ -1,0 +1,2 @@
+# odoo
+stor my modules 
